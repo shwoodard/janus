@@ -44,7 +44,7 @@ $ brew install macvim
 ```
 
 If you don't use Homebrew, you can still download MacVim
-[here](https://github.com/b4winckler/macvim/releases).
+[here](https://github.com/macvim-dev/macvim/releases).
 
 Take a look at the [Pre-requisites wiki
 page](https://github.com/carlhuda/janus/wiki/Pre-requisites) for more
